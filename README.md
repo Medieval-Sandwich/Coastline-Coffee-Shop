@@ -1,2 +1,2 @@
-# spring-2026-game-dev-3-final
-A github repo for my final project for Spring 2026. Because I accidentally deleted my project.
+# Coastline-Coffee-Shop
+The currently in-development version of Coastline Coffee Shop. This is a cute little game where a certain hero in green clothing has to make coffee for his fellow citizens, because contrary to popular belief, money doesn't just pop out of the grass!
